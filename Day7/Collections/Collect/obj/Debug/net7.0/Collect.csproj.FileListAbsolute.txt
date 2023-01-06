@@ -1,0 +1,15 @@
+D:\dotnetPractice\Day7\Collections\Collect\bin\Debug\net7.0\Collect.exe
+D:\dotnetPractice\Day7\Collections\Collect\bin\Debug\net7.0\Collect.deps.json
+D:\dotnetPractice\Day7\Collections\Collect\bin\Debug\net7.0\Collect.runtimeconfig.json
+D:\dotnetPractice\Day7\Collections\Collect\bin\Debug\net7.0\Collect.dll
+D:\dotnetPractice\Day7\Collections\Collect\bin\Debug\net7.0\Collect.pdb
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.csproj.AssemblyReference.cache
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.AssemblyInfoInputs.cache
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.AssemblyInfo.cs
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.csproj.CoreCompileInputs.cache
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.dll
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\refint\Collect.dll
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.pdb
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\Collect.genruntimeconfig.cache
+D:\dotnetPractice\Day7\Collections\Collect\obj\Debug\net7.0\ref\Collect.dll
